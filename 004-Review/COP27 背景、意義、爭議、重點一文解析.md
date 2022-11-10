@@ -2,7 +2,8 @@
 
 ## COP背景：《聯合國氣候變遷綱要公約》（UNFCC）
 
-![[Pasted image 20221110150858.png]] (https://www.egypttoday.com/Article/1/118108/Egypt%E2%80%99s-Foreign-Ministry-launches-official-social-media-accounts-of-COP27)
+![](../005-Files/Pasted%20image%2020221110150858.png) 
+[來源](https://www.egypttoday.com/Article/1/118108/Egypt%E2%80%99s-Foreign-Ministry-launches-official-social-media-accounts-of-COP27)
 
 聯合國每年都會召開一次世界大會，討論全球應該如何應對氣候變遷、全球暖化的議題。這個大會名稱是 Conference of Parties "COP"，而後面數字則是「第幾屆」的意思。COP27就是第27次舉辦的聯合國氣候大會。
 
@@ -44,7 +45,7 @@ COP27將於2022年11月6日到11月18日舉行為期兩週的會議，地點在�
 
 埃及人權倡議者Mona Seif批評：「大部分COP27參與者選擇忽視的現實，不只是人權問題與氣候正義緊緊相關，也是因為在埃及境內，那些真正在乎氣候議題的人，目前都在監獄裡萎靡著。」
 
-![[截圖 2022-11-09 下午3.37.40.png]]
+![](../005-Files/截圖%202022-11-09%20下午3.37.40.png)
 
 而埃及境內對於公共集會遊行嚴格管制，對社運人士限量發放許可證也讓聯合國氣候峰會受到詬病。瑞典環保少女童貝里（Greta Thunberg）表示：「公民社會的空間將極其受限，重要的是要留些空間給需要去那裡的人，示威者的聲音將很難被聽到。」
 
@@ -65,7 +66,7 @@ COP27將於2022年11月6日到11月18日舉行為期兩週的會議，地點在�
 
 在氣候正義的討論裡，「資金」是最難解的爭議點。IPCC估計，全球仍需要每年4~6兆美元的相關投資才有機會扭轉氣候變遷局勢，這是目前各國現行的氣候投資3~6倍。埃及環境署長Yasmine Fouad也在COP27中表示，非洲在2030年前仍需要41.6兆的資金應對氣候衝擊，在未來數年非洲魚獲、作物收成都會顯著受到氣候影響，而海平面上升將影響1.16億人口。
 
-![[Pasted image 20221110150355.png]]（MOHAMMED ABED/AFP）
+![](../005-Files/Pasted%20image%2020221110150355.png)（MOHAMMED ABED/AFP）
 
 
 受災害國受到富有國碳排造成的氣候變遷損傷，理所當然應受到理賠，但富有國也擔心一但理賠成立，會開啟無止盡的氣候訴訟大門，因此多方阻攔。
@@ -88,13 +89,13 @@ COP27將於2022年11月6日到11月18日舉行為期兩週的會議，地點在�
 
 更進一步地，就算各國都達成提交的國家自決貢獻（NDC），也只能控制升溫在2.4~2.6℃範圍內。
 
-![[Pasted image 20221109162010.png]]
+![](../005-Files/Pasted%20image%2020221109162010.png)
 
 國家自決貢獻（Nationally Determined Contributions, NDC）就是每一年，各個國家要自行提交的該年度減碳目標，並闡述國內會以何種手段達成。例如[這一份](https://unfccc.int/sites/default/files/NDC/2022-07/Egypt%20Updated%20NDC.pdf.pdf) 就是埃及的版本。
 
 而[氣候行動追蹤組織](https://climateactiontracker.org/countries/)(Climate Action Tracker)也每年追蹤各國提交的NDC並給予評分。在上屆COP26召開後，今年2022年只有28國提交，其中只有5國具有更具野心的減碳目標，合計只多減5億噸二氧化碳，不到全球碳排的1%。
 
-![[截圖 2022-11-10 下午2.15.17.png]]
+![](../005-Files/截圖%202022-11-10%20下午2.15.17.png)
 
 「我們正在前往氣候地獄的高速公路上，一腳還踩著油門不放。」聯合國秘書長Antonio Guterres這樣警告。
 
